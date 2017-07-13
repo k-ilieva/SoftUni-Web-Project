@@ -30,7 +30,7 @@ div.table {
 .lines {
    width: 25px;
    height: 3px;
-   background-color: cornflowerblue;
+   background-color: #fff;
    display: block;
    position: absolute;
    top: 50%;
